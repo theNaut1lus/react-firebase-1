@@ -5,12 +5,12 @@ import 'firebase/auth';
 const settings = {timestampsInSnapshots: true};
 
 const config = {
-  apiKey: "AIzaSyAIkX6hKs8rH9EJFiASCI6bpONHbvXeVo0",
-  authDomain: "react-crud-10ec7.firebaseapp.com",
-  databaseURL: "https://react-crud-10ec7.firebaseio.com",
-  projectId: "react-crud-10ec7",
-  storageBucket: "react-crud-10ec7.appspot.com",
-  messagingSenderId: "129353245876"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
